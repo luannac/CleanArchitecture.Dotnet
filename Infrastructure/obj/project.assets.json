@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Movies.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Movies.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Movies.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Movies.Application.dll": {}
+        }
+      },
+      "Movies.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Movies.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Movies.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Movies.Application.csproj",
+      "msbuildProject": "../Application/Movies.Application.csproj"
+    },
+    "Movies.Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Movies.Core.csproj",
+      "msbuildProject": "../Core/Movies.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Movies.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\luann\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\luann\\Projetos\\Movies-clean-architecture\\Infrastructure\\Movies.Infrastructure.csproj",
+      "projectName": "Movies.Infrastructure",
+      "projectPath": "C:\\Users\\luann\\Projetos\\Movies-clean-architecture\\Infrastructure\\Movies.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\luann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luann\\Projetos\\Movies-clean-architecture\\Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\luann\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\luann\\Projetos\\Movies-clean-architecture\\Application\\Movies.Application.csproj": {
+              "projectPath": "C:\\Users\\luann\\Projetos\\Movies-clean-architecture\\Application\\Movies.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Infrastructure.deps.json
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Infrastructure.dll
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Infrastructure.pdb
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Application.dll
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Core.dll
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Application.pdb
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\bin\Debug\net6.0\Movies.Core.pdb
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.AssemblyInfo.cs
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.csproj.CopyComplete
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.dll
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\refint\Movies.Infrastructure.dll
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\Movies.Infrastructure.pdb
+C:\Users\luann\Projetos\Movies-clean-architecture\Infrastructure\obj\Debug\net6.0\ref\Movies.Infrastructure.dll
